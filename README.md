@@ -5,7 +5,7 @@
 
 <h1 align="center">Welcome to my GitHub</h1>
 <h2 align="center">Muhammad Alfarobi</h2>
-<p align="center">Informatics Student | Fintech Enthusiast | Investor / Trader 💹</p>
+<p align="center">Informatics Student | Fintech Enthusiast | Stock Market Analyst</p>
 
 <!-- ================== BADGES ================== -->
 <p align="center">
@@ -19,7 +19,7 @@
 <!-- ================== ABOUT ME ================== -->
 ## About Me
 Hi! I'm **Muhammad Alfarobi**, a passionate Informatics student with a keen interest in **Fintech, technology, and economic analysis**.  
-I also actively engage in stock trading 📈 and exploring innovative financial technologies.
+I also actively engage in stock trading and exploring innovative financial technologies.
 
 ---
 
@@ -35,24 +35,3 @@ I also actively engage in stock trading 📈 and exploring innovative financial 
 | Machine Learning | ⭐⭐⭐   |
 
 ---
-
-<!-- ================== PROJECTS ================== -->
-## 🚀 Featured Projects
-- [Smart Farming System](https://github.com/AlfaRobi/smart_farming) 🌱 – IoT & AI-based farming solution
-- [Weather Monitoring App](https://github.com/AlfaRobi/weather-system) ☀️ – Real-time weather & alerts
-- [Stock Analysis Dashboard](https://github.com/AlfaRobi/stock-dashboard) 📊 – Analyzing stock market trends
-
----
-
-<!-- ================== STATS ================== -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlfaRobi&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfaRobi&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-Let's connect! 🤝  
-[LinkedIn](https://linkedin.com/in/AlfaRobi) | [Twitter](https://twitter.com/AlfaRobi)
-</p>
