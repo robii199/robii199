@@ -1,8 +1,4 @@
 <!-- ================== HEADER / HERO ================== -->
-<p align="center">
-  <img src="fintech.jpeg" alt="Fintech Background" width="100%"/>
-</p>
-
 <h1 align="center">Welcome to my GitHub</h1>
 <h2 align="center">Muhammad Alfarobi</h2>
 <p align="center">Informatics Student | Fintech Enthusiast | Stock Market Analyst</p>
