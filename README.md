@@ -1,6 +1,6 @@
 <!-- ================== HEADER / HERO ================== -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1611078484072-d9dfbde1f3d5?fit=crop&w=1200&q=80" alt="Fintech Background" width="100%"/>
+  <img src="fintech.jpeg" alt="Fintech Background" width="100%"/>
 </p>
 
 <h1 align="center">Welcome to my GitHub</h1>
